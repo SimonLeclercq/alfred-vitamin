@@ -22,6 +22,10 @@
 			</dict>
 		</array>
 	</dict>
+	<key>createdby</key>
+	<string>Simon Leclercq</string>
+	<key>description</key>
+	<string>Find everything you need on Vitamin (Decathlon Design System)</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -116,5 +120,7 @@
 			<integer>260</integer>
 		</dict>
 	</dict>
+	<key>webaddress</key>
+	<string></string>
 </dict>
 </plist>
